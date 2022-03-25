@@ -1,10 +1,8 @@
-title: [Juan Pablo Cortes]
+title: [Juan Pablo Cortes Update]
 logo: /assets/img/logo.jpg
 description: [Estudiante de ingeniería de sistemas | Programador ReactJs]
 
-minima: 
-
-  social_links:
-     linkedin: hola
+social_links:
+  linkedin: hola
 
 theme: jekyll-theme-minimal
